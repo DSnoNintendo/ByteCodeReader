@@ -1,0 +1,4 @@
+LABEL Read
+READ
+CALL Read
+HALT
